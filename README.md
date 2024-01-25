@@ -1,1 +1,1 @@
-A os made by a indie developer(yet to write the kernel). Highly influenced by linus torvalds.
+A os made by a indie developer(yet to write the kernel). Highly influenced by linus torvalds. Going to be a Open source OS, So in future your piece of advice and code for improving the os is highly valued. 
